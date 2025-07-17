@@ -33,10 +33,3 @@ git clone https://github.com/A-Sandeep-Kumar/aimldesk.git
 flutter pub get
 flutter run
 
-
-👨‍💻 Developer
-Adirala Sandeep Kumar
-CSE - AI & ML (2023–2027)
-Dhanekula Institute of Engineering and Technology, Andhra Pradesh
-📧 adiralasandeepkumar123@gmail.com
-📱 +91 7993954967
